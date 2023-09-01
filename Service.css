@@ -1,0 +1,274 @@
+body {	font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+    line-height: 25px;
+    border-top: 7px solid #333;
+    background: #eaeaea url(images/background.png);
+    color: #666;
+    height: 100%;
+
+}
+
+
+
+#container h2{
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+}
+
+#container p{
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+  
+}
+
+#container {
+font-size: 16px;
+width:960px;
+background: #FFF;
+box-shadow: 0px 2px 10px #888888;
+border-radius: 5px;
+padding: 20px;
+margin: auto;
+position: relative;
+clear: both;
+border-radius: 30px;
+box-shadow: 10px 10px 10px pink;
+}
+
+#site_title {float: left;
+padding-top: 36px;
+padding-left:20px
+}
+#site_title img {
+position: relative;
+bottom: 45px;
+right: 150px;
+width: 150px;
+height: 130px;
+}
+
+
+
+.header {
+width: 1000px;
+margin: auto;
+}
+
+h1, h2, h3, h4 {
+ font-family: 'Parisienne', sans-serif; 
+} 
+
+h1 {
+font-size: 34px; 
+ padding: 20px 0; 
+ color: #000 
+}
+
+h2, h3 {
+margin: 20px 0;
+ color: #000; 
+ font-weight: normal; 
+ text-transform:normal
+}
+
+h2 {
+font-size: 32px;
+}
+
+h3 {font-size: 32px;
+}
+
+h4 {font-size: 19px;
+ font-weight: 700px;
+}
+
+p {
+padding: 10px 0;
+font-size: 16px;
+}
+
+#container ul li {list-style:none
+}
+#container ol li {list-style: none
+}
+
+.quote{
+font-family:Georgia, "Times New Roman", Times, serif;
+ font-style: italic;
+  margin: 10px 0;
+}
+
+#site_title {float: left; padding-top: 36px; padding-left:20px}
+#site_title img {float: left};
+
+#menu {
+display: block;
+clear: both;
+width: 900px;
+height: 100px;
+margin: 0px;
+position: relative;
+left: 180px;
+
+}
+#menu ul {
+
+  padding: 0px;
+
+}
+
+#menu ul li {
+list-style: none;
+
+}
+
+#menu  ul li a {
+text-decoration: none;
+font-size: 15pt;
+color: black;
+float: left;
+padding: 10px;
+width: 120px;
+background-color:white;
+text-align: center;
+margin-right: 8px;
+
+}
+#menu ul li a:hover {
+color:white;
+background-color: black;
+}
+
+footer {
+  display: block;
+  clear: both;
+  color: black;
+  font-size: 12pt;
+  text-align: center;
+  width: 920px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding: 30px 20px 50px;
+  position: relative;
+  left: 100px;
+}
+
+footer a {
+  text-decoration: none;
+  color: skyblue;
+  padding: 10px;
+  margin-bottom: 10px;
+
+}
+
+footer h3{
+  font-family: 'Dancing Script', cursive;
+  color: #555;
+  font-size: 20px;
+}
+
+footer a:hover {
+  color: #555;
+}
+
+footer li{
+  list-style: none;
+  padding: 1px;
+
+}
+
+.Links{
+  float: right;
+}
+
+.Terms{
+  float: right;
+  width:260px;
+  
+}
+
+.Information{
+  float: right;
+  width: 260px;
+  right: 100px;
+}
+
+.social{
+  float: right;
+  position: relative;
+  left: 900px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Dancing Script', cursive;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 80%;
+  max-width: 800px;
+  background-color: white;
+  box-shadow: 10px 10px 10px bisque;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+th, td {
+  
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color:bisque;
+  font-weight: bold;
+  color: #666;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
+
+#goals p{
+  width: 400px;
+  font-size: 20px;
+  font-family: 'Parisienne', sans-serif;
+  font-weight: normal;
+}
+
+
+#goals img{
+  border-radius: 4px;
+  box-shadow: 2px 2px 10px gray;
+}
+
+
+
+#motor{
+  float: right;
+  position: relative;
+  bottom: 1100px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 10px gray;
+  
+}
+
+
+#table-special{
+  position: relative;
+  bottom: 800px; 
+}
+
+#Expansive{
+  position: relative;
+  bottom: 700px;
+}

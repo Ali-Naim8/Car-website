@@ -1,0 +1,365 @@
+
+
+
+body {	font-family: Georgia, "Times New Roman", Times, serif;
+		font-size: 14px;
+	    line-height: 25px;
+		border-top: 7px solid #333;
+		background: #eaeaea url(images/background.png);
+		color: #666;
+    height: 100%;
+    
+}
+
+#container {
+	font-size: 16px;
+	width:960px;
+	background: #FFF;
+	box-shadow: 0px 2px 10px #888888;
+	border-radius: 5px;
+	padding: 20px;
+	margin: auto;
+	position: relative;
+	clear: both;
+}
+
+#site_title {float: left;
+   padding-top: 36px;
+    padding-left:20px
+  }
+#site_title img {
+  position: relative;
+  bottom: 45px;
+  right: 150px;
+  width: 150px;
+  height: 130px;
+}
+
+
+
+.header {
+	width: 1000px;
+	margin: auto;
+}
+
+h1, h2, h3, h4 {
+     font-family: 'Parisienne', sans-serif; 
+} 
+
+h1 {
+    font-size: 34px; 
+     padding: 20px 0; 
+     color: #000 
+}
+
+h2, h3 {
+    margin: 20px 0;
+     color: #000; 
+     font-weight: normal; 
+     text-transform:normal
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {font-size: 32px;
+}
+
+h4 {font-size: 19px;
+     font-weight: 700px;
+}
+
+p {
+	padding: 10px 0;
+	font-size: 16px;
+}
+
+#container ul li {list-style:none
+}
+#container ol li {list-style: none
+}
+
+.quote{
+    font-family:Georgia, "Times New Roman", Times, serif;
+     font-style: italic;
+      margin: 10px 0;
+}
+
+#site_title {float: left; padding-top: 36px; padding-left:20px}
+#site_title img {float: left};
+
+#menu {
+    display: block;
+    clear: both;
+    width: 900px;
+    height: 100px;
+  margin: 0px;
+  position: relative;
+    left: 180px;
+    
+  }
+  #menu ul {
+  
+      padding: 0px;
+  
+  }
+  
+  #menu ul li {
+    list-style: none;
+    
+  }
+  
+  #menu  ul li a {
+    text-decoration: none;
+    font-size: 15pt;
+    color: black;
+    float: left;
+    padding: 10px;
+    width: 120px;
+    background-color:white;
+    text-align: center;
+    margin-right: 8px;
+  
+  }
+  #menu ul li a:hover {
+    color:white;
+    background-color: black;
+  }
+
+  #classic{
+    position: relative;
+    width: 500px;
+    left: 480px;
+    bottom: 300px;
+  }
+
+  #classic h2{
+    font-family: 'Dancing Script', cursive;
+  }
+
+  #classic p{
+    color: black;
+  }
+  
+  #classic a{
+    text-decoration: none;
+    font-size: 15px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    padding: 8px;
+    color: gray;
+    background-color: #FFF;
+    font-weight: bold;
+  }
+
+  #classic a:hover{
+    color: black;
+    background-color: grey;
+  }
+
+  #info{
+    width: 300px;
+    position: relative;
+    bottom: 440px;
+  }
+
+  .Partner{
+    position: relative;
+    left: 650px;
+    bottom: 295px
+  }
+
+  h2{
+    font-family: 'Dancing Script', cursive;
+  }
+
+  #info img{
+    width: 250px;
+    position: relative;
+    left: 340px;
+    top: 210px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px gray;
+  }
+
+  #info a{
+    text-decoration: none;
+    font-size: 15px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    padding: 8px;
+    color: gray;
+    background-color: #FFF;
+    font-weight: bold;
+  }
+
+  #info a:hover{
+    color: black;
+    background-color: grey;
+  }
+  
+  .News{
+    
+    position: relative;
+    bottom: 694px;
+  }
+
+  .News img{
+    width: 800px;
+    height: 600px;
+  }
+
+  .News h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  #newsp p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 20px;
+    width: 400px;
+    position: relative;
+    bottom: 300px;
+  }
+
+  #newsp a{
+    text-decoration: none;
+    font-size: 15px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    padding: 8px;
+    color: gray;
+    background-color: #FFF;
+    font-weight: bold;
+    position: relative;
+    right: 300px;
+  }
+
+  newsp a:hover{
+    color: black;
+    background-color: grey;
+  }
+
+  .News video{
+    position: relative;
+    left: 450px;
+    top: 120px;
+    border-radius: 10px;
+  }
+
+  #ford{
+    position: relative;
+    bottom: 1000px;
+    width: 1000px;
+    right: 20px;
+  }
+
+  #creator{
+    position: relative;
+    bottom: 900px;
+    width: 400px;
+  }
+
+  #creator img{
+    position: relative;
+    bottom: 300px;
+    left: 500px;
+    
+  }
+
+  .one-half{
+    position: relative;
+    bottom:1500px;
+  }
+
+  #ferrari{
+    
+    position: relative;
+    right: 500px;
+  }
+
+  #race{
+    position: relative;
+    right: 50px;
+    bottom: 300px;
+  }
+
+  #about a{
+    text-decoration: none;
+    font-size: 15px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    padding: 8px;
+    color: gray;
+    background-color: #FFF;
+    font-weight: bold;
+    float: left;
+  }
+
+  #about a:hover{
+    color: black;
+    background-color: grey;
+  }
+
+  footer {
+    display: block;
+    clear: both;
+    color: black;
+    font-size: 12pt;
+    text-align: center;
+    width: 920px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding: 30px 20px 50px;
+    position: relative;
+    left: 100px;
+  }
+  
+  footer a {
+    text-decoration: none;
+    color: skyblue;
+    padding: 10px;
+    margin-bottom: 10px;
+
+  }
+
+  footer h3{
+    font-family: 'Dancing Script', cursive;
+    color: #555;
+    font-size: 20px;
+  }
+  
+  footer a:hover {
+    color: #555;
+  }
+
+  footer li{
+    list-style: none;
+    padding: 1px;
+
+  }
+  
+  .Links{
+    float: right;
+  }
+
+  .Terms{
+    float: right;
+    width:260px;
+    
+  }
+
+  .Information{
+    float: right;
+    width: 260px;
+    right: 100px;
+  }
+
+  .social{
+    float: right;
+    position: relative;
+    left: 900px;
+  }
+
+  
